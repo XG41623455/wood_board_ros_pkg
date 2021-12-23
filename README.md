@@ -1,7 +1,7 @@
 # wood_board_ros_pkg
 Include urdf, meshes and launch files...which is a ros package.
 
-Requirments: Ubuntu, ROS, Gazebo
+Requirements: Ubuntu, ROS, Gazebo
 
 Usage:
 in /WoodBoard/
