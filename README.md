@@ -4,6 +4,7 @@ Include urdf, meshes and launch files...which is a ros package.
 Requirments: Ubuntu, ROS, Gazebo
 
 Usage:
+in /WoodBoard/
 1. catkin_make
 2. source ./devel/setup.bash
 3. roslaunch [launch files]
